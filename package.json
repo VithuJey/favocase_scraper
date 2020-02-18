@@ -1,0 +1,26 @@
+{
+  "name": "favocase_scraper",
+  "version": "1.0.0",
+  "description": "A scraper to scrape Favocase listings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VithuJey/favocase_scrapper.git"
+  },
+  "keywords": [
+    "favocase",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VithuJey/favocase_scrapper/issues"
+  },
+  "homepage": "https://github.com/VithuJey/favocase_scrapper#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
