@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/VithuJey/favocase_scrapper#readme",
   "dependencies": {
+    "json2xls": "^0.1.2",
     "puppeteer": "^2.1.1"
   }
 }
